@@ -1,1 +1,1 @@
-# full-stack-javascrript-sample
+# full-stack-javascript-sample
